@@ -1,5 +1,3 @@
-title: Game Choice and Investing Effort
-
 # Game Choice and Investing Effort
 
 Many interesting problems are reducible to machine learning problems which means that the tools of ML are widely applicable. Computer science is valuable primarily because many problems are reducible to algorithmic problems – the distinction between algorithmic solutions and "machine-learning" being only the existence of randomness in the problem itself. Because many problems are reducible to problems of algorithmic design/implementation the tools of CS, the languages we use and the techniques we learn, are broadly applicable within many domains and therefore allow for more unilateral freedom in terms of choosing which "games" to play. The universe of assets in which you may invest your effort is enlarged thanks to this reducibility.
