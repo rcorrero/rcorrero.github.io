@@ -5,11 +5,11 @@ title: Projects
 
 
 ## Causa Nostra
-- [Game Choice and Investing Effort](pages/game_choice.html)
+- [Game Choice and Investing Effort](notes/game_choice.html)
 
 ### Current Projects (In Progress)
-- [Germinal](pages/germinal.md)
-- [Aprilis](pages/aprilis.md)
+- [Germinal](notes/germinal.md)
+- [Aprilis](notes/aprilis.md)
 
 ### Past Projects
 - [thermidor](https://github.com/rcorrero/thermidor)
