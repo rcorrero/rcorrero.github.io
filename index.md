@@ -5,7 +5,7 @@ title: Projects
 
 
 ## Causa Nostra
-- [Game Choice and Investing Effort](notes/game_choice.html)
+- [Game Choice and Investing Effort](notes/game_choice.md)
 
 ### Current Projects (In Progress)
 - [Germinal](notes/germinal.md)
