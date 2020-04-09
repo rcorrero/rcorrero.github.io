@@ -2,6 +2,8 @@
 title: Projects
 ---
 
+# Projects
+A public space for me to record my personal work.
 
 
 ## Causa Nostra
