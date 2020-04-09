@@ -1,7 +1,7 @@
 ---
 title: Germinal
 created: '2020-04-05T19:41:03.576Z'
-modified: '2020-04-09T21:22:32.767Z'
+modified: '2020-04-09T21:29:12.902Z'
 ---
 
 # Germinal
@@ -29,18 +29,18 @@ The problem of text recommendation may be modeled as a [non-contextual bandit pr
  1. Design and implement basic non-contextual linear bandit algorithm which uses some annealing schedule to fit parameters.
  2. Implement preprocessing steps
   - Tfidf conversion
-  - Decomposition and transformation into \(k\)-dimensional topic space using NMF
+  - Decomposition and transformation into $k$-dimensional topic space using NMF
  as a pipeline to create topic space and transform texts.
  3. Design basic observation ui which
   - Prompts the user for seed text(s)
   - Responds with (estimated) most relevant text
   - Asks the user whether the text is relevant or not (Respond `[y]es` if so and `[n]o` otherwise)
-  - If `yes`, \(r_t = 1\); \(r_t = -1\) otherwise. The code for this is called within the `while` loop of the NLB algorithm, and after receiving reward \(r_t\) the algorithm updates \(\hat\mu_t\) as follows:
-  \[\hat\mu_t += r_t \cdot x_t\]
-  where \(x_t\) is the embedding in topic space of the text presented at \(t\).
+  - If `yes`, $r_t = 1$; $r_t = -1$ otherwise. The code for this is called within the `while` loop of the NLB algorithm, and after receiving reward $r_t$ the algorithm updates $\hat\mu_t$ as follows:
+  $$\hat\mu_t += r_t \cdot x_t$$
+  where $x_t$ is the embedding in topic space of the text presented at $t$.
 
 #### _ConfidenceBall_ Iterative SVM Model
-The [ConfidenceBall](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1501&context=statistics_papers) model presented by Dani et. al. is similar to the method we will develop in that it makes a greedy selection at each round and then updates its estimate of some parameter \(\hat\mu_t\) based on the observed reward. Our method is simplier because we have a set of discrete vectors (embeddings of the texts in the corpus) from which to sample.
+The [ConfidenceBall](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1501&context=statistics_papers) model presented by Dani et. al. is similar to the method we will develop in that it makes a greedy selection at each round and then updates its estimate of some parameter $\hat\mu_t$ based on the observed reward. Our method is simplier because we have a set of discrete vectors (embeddings of the texts in the corpus) from which to sample.
 
 ## Avenues of Inquiry
 - Develop a standard python framework for tasks which use "shallow" models such as ordinary least squares or logistic regression with two types of predictors:
