@@ -21,4 +21,4 @@ A public space for me to record my personal work.
 - [Housing Price-Prediction Using Elastic-Net Regularized Regression](https://github.com/rcorrero/enet-house-prices)
 
 
-Copyright Richard Correro 2020. All rights reserved.
+Copyright © 2020 Richard Correro. All rights reserved.

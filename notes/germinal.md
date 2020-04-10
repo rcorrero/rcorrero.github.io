@@ -1,7 +1,7 @@
 ---
 title: Germinal
 created: '2020-04-05T19:41:03.576Z'
-modified: '2020-04-10T14:30:24.603Z'
+modified: '2020-04-10T17:44:11.139Z'
 ---
 
 # Germinal
@@ -57,3 +57,6 @@ Exploitation-Exploration Trade-offs](http://www.jmlr.org/papers/volume3/auer02a/
 - [Finite-Time Analysis of Kernelised Contextual Bandits](https://arxiv.org/pdf/1309.6869.pdf)
 - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
+- [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf)
+- [Logistic Regression in Sci-kit Learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
