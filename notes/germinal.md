@@ -1,7 +1,7 @@
 ---
 title: Germinal
 created: '2020-04-05T19:41:03.576Z'
-modified: '2020-04-09T21:29:12.902Z'
+modified: '2020-04-10T02:31:07.936Z'
 ---
 
 # Germinal
@@ -40,7 +40,7 @@ The problem of text recommendation may be modeled as a [non-contextual bandit pr
   where $x_t$ is the embedding in topic space of the text presented at $t$.
 
 #### _ConfidenceBall_ Iterative SVM Model
-The [ConfidenceBall](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1501&context=statistics_papers) model presented by Dani et. al. is similar to the method we will develop in that it makes a greedy selection at each round and then updates its estimate of some parameter $\hat\mu_t$ based on the observed reward. Our method is simplier because we have a set of discrete vectors (embeddings of the texts in the corpus) from which to sample.
+The [ConfidenceBall](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1501&context=statistics_papers) model presented by Dani et. al. is similar to the method we will develop in that it makes a greedy selection at each round and then updates its estimate of some parameter \(\hat\mu_t\) based on the observed reward. Our method is simplier because we have a set of discrete vectors (embeddings of the texts in the corpus) from which to sample.
 
 ## Avenues of Inquiry
 - Develop a standard python framework for tasks which use "shallow" models such as ordinary least squares or logistic regression with two types of predictors:
