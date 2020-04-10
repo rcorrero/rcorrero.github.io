@@ -1,8 +1,5 @@
 title: Projects
 author: Richard Correro
 description: A public space for me to record my personal work.
-theme: jekyll-theme-minimal
 markdown: kramdown
-kramdown:
-    math_engine: katex
 exclude: ['README.md', 'License.md']
