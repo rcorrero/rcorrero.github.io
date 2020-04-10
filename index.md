@@ -3,7 +3,7 @@ title: Projects
 ---
 
 # Projects
-A public space for me to record my personal work.
+A public space for me to record my personal work. This is new.
 
 
 ## Causa Nostra
