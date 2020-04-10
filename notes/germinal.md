@@ -1,7 +1,7 @@
 ---
 title: Germinal
 created: '2020-04-05T19:41:03.576Z'
-modified: '2020-04-10T17:44:11.139Z'
+modified: '2020-04-10T17:48:39.690Z'
 ---
 
 # Germinal
@@ -59,4 +59,4 @@ Exploitation-Exploration Trade-offs](http://www.jmlr.org/papers/volume3/auer02a/
 - [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
 - [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 - [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf)
-- [Logistic Regression in Sci-kit Learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+- [Logistic Regression in Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
