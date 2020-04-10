@@ -1,6 +1,6 @@
 title: Projects
 description: A public space for me to record my personal work.
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
     math_engine: katex
