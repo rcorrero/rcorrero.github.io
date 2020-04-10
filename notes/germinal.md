@@ -1,20 +1,19 @@
 ---
 title: Germinal
 created: '2020-04-05T19:41:03.576Z'
-modified: '2020-04-10T03:15:54.479Z'
+modified: '2020-04-10T14:30:24.603Z'
 ---
 
 # Germinal
-Note: This page is incomplete and very rough.
+Note: This page is a work-in-progress.
 
-## Overview
-### What is this
-This project is pedagogical. It's the record of my attempt to develop a system which solves a problem I have. Don't be fooled by the high-minded language with which I present my motivations: this is an amature's attempt to design an information retrieval system. There are obviously many existing tools developed by teams of professionals, and it is almost certain that, whatever your information retrieval needs, these tools will be much more useful to you than anything I may hope to create. The value of this work does not come from the accuracy or precision of the system itself – although these will hopefully reach an acceptable state – but from the conceptualization and analogy which they motivate. This is a record of the process of developing a functional system, starting from a set of techniques and an existing system, reconceptualizing the system on some level (for example the structure of the system itself, or the structure or function of the components, or the ways in which the components interact) in a way which motivates a modification to the system, or new method in which to leverage the system, which is then implemented in a functional way in code. The result is a program which encodes this reconceptualization – in this way, "the buck stops" with the code.
+## Overview – What Is This
+This project is pedagogical. It's the record of my attempt to develop a system which solves a problem I have. The value of this work does not come from the accuracy or precision of the system itself – although these will hopefully reach an acceptable state – but from the conceptualization and analogy which its creation motivates. This is a record of the process of developing a functional system, starting from a set of techniques and an existing system, reconceptualizing the system on some level (for example the structure of the system itself, or the structure or function of the components, or the ways in which the components interact) in a way which motivates a modification to the system, or new method in which to leverage the system, which is then implemented in a functional way in code. The result is a program which encodes this reconceptualization – in this way, "the buck stops" with the code.
 
 ### Motivations
-From the individual's perspective, the amount of knowledge now free – in all senses of the word – and openly available in functionally unlimited. In a signal-rich environment creation is synthesis; synthesis of ideas from disparate and varied sources. Different texts, works produced by practitioners from different fields and different institutions, with different motivations and perspectives – fundamentally, the creation of value is identified with the synthesis of all of this into novel work which builds on it and sits atop it. 
+From the individual's perspective, the amount of written knowledge now free – in all senses of the word – and openly available is functionally unlimited. In a signal-rich environment creation is synthesis; synthesis of ideas from disparate and varied sources. Different texts, works produced by practitioners from different fields and different institutions, with different motivations and perspectives – fundamentally, the creation of value is identified with the synthesis of all of this into novel work which builds on it and sits atop it. 
 
-This is a normative value judgement with respect to knowledge creation. It's useful in that it motivates an analysis of the way in which individuals interact with massive, functionally infinite, knowledges reserves presented by repositories, databases, and the federal knowledge hierarchy of the internet itself. 
+Of course, this signal is buried under mountains of noise – we need methods to separate the two. Such methods are known as [information retrieval systems](https://en.wikipedia.org/wiki/Information_retrieval). 
 
 - Describe the hierarchy implicit in keyword search methods
 
