@@ -1,10 +1,16 @@
 ---
 title: Aprilis
 created: '2020-04-08T15:02:16.098Z'
-modified: '2020-04-09T21:10:08.641Z'
+modified: '2020-04-13T01:50:42.239Z'
 ---
 
 # Aprilis
+
+## Motivation
+"It is precisely when we recognise the same amount of structure in a wide variety of interesting examples that the abstract approach comes into its own."
+––– Armstrong, [_Groups and Symmetry_](https://link.springer.com/book/10.1007/978-1-4757-4034-9)
+
+In the course of designing solutions to machine learning problems certain approaches show up, often in disparate and unlikely places. The number of useful representations and methods for utilizing them is functionally infinite, and the number of dimensions along which machine learning systems may vary is vast. Yet, some schema seem implausibly well-suited to tasks which seemingly share no structure besides their basic formulation as a learning problem. This is an exploration of one such schema.
 
 ## Goals
 - Development of a functional framework for creating well-founded statistical models using deep models as inputs. In particular, using the transfer learning method from [this paper](https://science.sciencemag.org/content/sci/353/6301/790.full.pdf?casa_token=IGFOJXgxvdYAAAAA:TSJ7AHkOLDHdUlyEDoHBwwXvdBKQJRost_Qp5YxaAHIUAeOE8enNIUybJ_zpf3mKPTkIWor-v6JtlA), use pretrained models to generate features based on input satellite imagery. Combine these deep features with shallow features which are application-specific, fit a (regularized) regression model over both types of features to predict some dependent variable of interest, i.e. land-value, etc. Using a pretrained model as a base on which to build domain-specific neural classifiers requires adding neural layers and the associated modifications – learn how to do this.
