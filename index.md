@@ -10,8 +10,8 @@ A public space for me to record my personal work.
 - [Game Choice and Investing Effort](notes/game_choice.md)
 
 ### Current Projects (In Progress)
-- [Germinal](notes/germinal.md)
-- [Aprilis](notes/aprilis.md)
+-[poisson](https://github.com/rcorrero/poisson)
+-[Prairial](notes/prairial.md)
 
 ### Past Projects
 - [thermidor](https://github.com/rcorrero/thermidor)
