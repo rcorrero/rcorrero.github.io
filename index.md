@@ -11,7 +11,7 @@ A public space for me to record my personal work.
 
 ### Current Projects (In Progress)
 -[poisson](https://github.com/rcorrero/poisson)
--[Prairial](notes/prairial.md)
+-[Prairial](notes/Prairial.md)
 
 ### Past Projects
 - [thermidor](https://github.com/rcorrero/thermidor)
