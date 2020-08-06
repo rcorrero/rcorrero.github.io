@@ -6,7 +6,7 @@ title: Projects
 A public space for me to record my personal work.
 
 
-## Causa Nostra
+### Causa Nostra
 - [Game Choice and Investing Effort](notes/game_choice.md)
 
 ### Current Projects (In Progress)
