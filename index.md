@@ -12,7 +12,7 @@ A public space for me to record my personal work.
 ### Current Projects (In Progress)
 - [poisson](https://github.com/rcorrero/poisson)
 
-[Map of vessel detections](files/callao_vessel_map.html) near Callao in Peru. This map was created using vessel counts obtained from satellite imagery using a deep neural network I created and trained as a part of my work on poisson.
+[Map of vessel detections](files/callao_vessel_map.html) near Callao in Peru. This map was created using vessel counts obtained from satellite imagery by a deep neural network (designed by me as part of my work on poisson).
 
 - [Prairial](notes/Prairial.md)
 
