@@ -23,5 +23,8 @@ A public space for me to record my personal work.
 - [Clustering Capital Market Returns using Mixture Models](https://github.com/rcorrero/clustering-capital-markets)
 - [Housing Price-Prediction Using Elastic-Net Regularized Regression](https://github.com/rcorrero/enet-house-prices)
 
+### Papers
+- ["Weak Supervision with Incremental Source Accuracy Estimation"](https://www.semanticscholar.org/paper/Weak-Supervision-with-Incremental-Source-Accuracy-Correro-rcorrero/7686a15a46690ccedb598fff0ecdc34d0474af0f)
+
 
 Copyright © 2020 Richard Correro. All rights reserved.
