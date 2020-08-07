@@ -12,7 +12,7 @@ A public space for me to record my personal work.
 ### Current Projects (In Progress)
 - [poisson](https://github.com/rcorrero/poisson)
 
-[Map of vessel detections](files/callao_vessel_map.html) near Callao in Peru. This map was created using vessel counts obtained from satellite imagery by a deep neural network. [This map](files/open_water_vessel_map.html) shows vessel detections in open waters off the coast of Peru. Both are from poisson.
+[This image](files/open_ocean.png) shows vessel detections in open waters off the coast of Peru. Created from satellite imagery using a convolutional network. From poisson.
 
 - [Prairial](notes/Prairial.md)
 
