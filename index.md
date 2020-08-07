@@ -10,8 +10,7 @@ A public space for me to record my personal work.
 - [Game Choice and Investing Effort](notes/game_choice.md)
 
 ### Current Projects (In Progress)
-- [poisson](https://github.com/rcorrero/poisson) –
-[This image](files/open_ocean.png) shows vessel detections in open waters off the coast of Peru. Using a convolutional neural network, the vessels were detected from 500 satellite images over a one year period. From poisson
+- [poisson](https://github.com/rcorrero/poisson) – [This image](files/open_ocean.png) shows vessel detections in open waters off the coast of Peru. Using a convolutional neural network, the vessels were detected from 500 satellite images over a one year period. From poisson
 
 - [Prairial](notes/Prairial.md)
 
