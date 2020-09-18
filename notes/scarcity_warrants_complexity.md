@@ -1,7 +1,7 @@
 ---
 title: Scarcity Warrants Complexity
 created: '2020-09-17T19:09:19.668Z'
-modified: '2020-09-18T18:43:37.099Z'
+modified: '2020-09-18T18:55:27.653Z'
 ---
 
 # Scarcity Warrants Complexity
@@ -21,16 +21,16 @@ A flow-state is not only a product of mental commitment, however, and another ne
 ### Productiveness and Reproductiveness
 For a problem to be valuable its solution must beget more interesting problems, themselves interesting and therefore worth solving. It must have the potential to lead to something greater and more interesting. Since the necessary conditions for interestingness include value, these potential problems must in turn come with their own value in solving. In this way interesting problems beget interesting problems which beget more value, and so on. 
 
-This "reproducibility" of interesting solutions is motivated by a deep desire that one's work have permanence and therefore that the waves they generate continue to extend across time. In a sense what I'm saying is that the solution to an interesting problem must in some sense have within it the capacity to become more than what it is originally, to spread and multiply. 
+This "reproducibility" of interesting solutions is motivated by a deep desire that one's work have permanence and therefore that the waves they generate continue to extend across time. What I'm saying is that the solution to an interesting problem must in some way have within it the capacity to become more than what it is originally, to spread and multiply. 
 
-In this sense solutions are like multicellular organisms. They are highly complex, and inherent in their structure and function is the capacity to enure the continued viability of their genes. They are like links in a chain which strive to extend the chain, and from the chain untold chains may branch out and spread into new and unimaginable spaces.
+Solutions are like multicellular organisms. They are highly complex, and inherent in their structure and function is the capacity to enure the continued viability of their genes. They are like links in a chain which strive to extend the chain, and from the chain untold chains may branch out and spread into new and unimaginable spaces.
 
 Why must valuable things be reproductive in this way? Because if they do not have this capacity to persist in time, then they must not have generated something valuable. If they had, then, at least in as far as their fruits beget future profits, broadly construed, for those who possessed them, they persist.
 
-If this is a hard pill to swallow then I agree. I'm here only interested in justifying my own views and attempting to unify them into a coherent narrative. The truth is that my views regarding what problems are interesting are themselves the product of a kind of evolutionary mental process unfolding in my head which is continually changing course as new information enters it. To expect them to be consistent is quite a high bar, but consistency is nonetheless necessary for intelligibility, i.e. for me to explain my own thoughts. 
+If this is a hard pill to swallow then I agree. I'm here only interested in justifying my own views and attempting to unify them into a coherent narrative. The truth is that my views regarding what problems are interesting are themselves the product of a kind of evolutionary mental process unfolding in my head which is continually changing course as new information affects it. To expect them to be consistent is quite a high bar, but consistency is nonetheless necessary for intelligibility, i.e. for me to explain my own thoughts. 
 
 ## Complex Analysis
-<E.g. evolutionary game theory>
+E.g. evolutionary game theory
 
 
 
