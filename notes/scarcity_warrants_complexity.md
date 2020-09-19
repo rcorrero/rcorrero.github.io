@@ -1,14 +1,17 @@
 ---
 title: Scarcity Warrants Complexity
 created: '2020-09-17T19:09:19.668Z'
-modified: '2020-09-18T18:55:27.653Z'
+modified: '2020-09-19T19:10:50.052Z'
 ---
 
 # Scarcity Warrants Complexity
 
 _This is a record of my own view of my work, and why it matters. This is a working document - as I will discuss, I believe all valuable works must be mutable and change with time._
 
-What constitutes an interesting problem; what categories of problems are worth trying to solve? This is broadly the subject of this work, but god knows where I'll take this in time. The question of what is interesting is important because knowing this is necessary to know which problems _aren't_ interesting and aren't worth investing effort into. And so I intend to here describe the properties shared by interesting problems. Using these I'll delineate between the interesting and uninteresting.
+## What Could Be
+_What could be_ is the numeraire of value. The early life of __insert important self-made person here__ is interesting because of what the person would become, not what he was. How many aspiring young men have dreamed of what they may be only to become nothing, and like so many blades of grass been clipped by time, only to be replaced by new men who would meet the same fate? Their stories are many and equally uninteresting in as far as they have no internal coherence. Their early actions beget nothing valuable, and there is no natural progression; the only story is that of what _may have been_. This is why one must seek problems which are valuable and beget future rewards: solving them yields meaning, and their solutions have temporal permanence which makes one's effort forever meaningful. One's narrative naturally follows the arc which we all dream of. As of writing this I'm 22, and I'm ready to begin climbing Jacob's ladder towards whatever my teleological ends is. To ever reach it, and to feel the satisfaction in the struggle of striving towards it, towards that which is more valuable than all else, I must attempt to describe it and delineate it. If I never reach it — reaching one's ends may be impossible — then at least the struggle will have been meaningful.
+
+Meaning in one's work is derived from solving interesting problems. What constitutes an interesting problem, and which categories of problems are worth trying to solve? This is broadly the subject of this work, but god knows where I'll take this in time. The question of what is interesting is important because knowing this is necessary to know which problems _aren't_ interesting and aren't worth investing effort into. And so I intend to here describe the properties shared by interesting problems. Using these I'll delineate between the interesting and uninteresting.
 
 ## Complexity
 A problem must be complex to be interesting. Complexity demands creativity and the complete commitment of one's intellectual faculties in designing a solution. Working on complex problems naturally lulls me into a flow-state in which nothing but a sense of complete focus envelops me. My favorite passtime is running, and when in this flow-state I feel as I do after I've been running for a long period of time. Although my mind wonders at first, by the time I've run five or so miles I am focused and mentally steady. Once I realize that I've reached this point I feel content because I know that when I'm done running the endorphins will continue to wash over my brain. Just the thought of these future rewards leads to a feeling of absolute contentedness and satisfaction in the moment, even before I've finished. The highest form of satisfaction is the satisfaction which one feels after having struggled with a difficult task and solved it. Problems which aren't complex (in some way) are simple and therefore solving them does not yield the kind of satisfaction which I desire. Note that complexity is relative to one's knowledge and experience, and as one becomes better at one's pursuits the requisite amount of complexity required to make a problem challenging naturally increases.
@@ -29,8 +32,9 @@ Why must valuable things be reproductive in this way? Because if they do not hav
 
 If this is a hard pill to swallow then I agree. I'm here only interested in justifying my own views and attempting to unify them into a coherent narrative. The truth is that my views regarding what problems are interesting are themselves the product of a kind of evolutionary mental process unfolding in my head which is continually changing course as new information affects it. To expect them to be consistent is quite a high bar, but consistency is nonetheless necessary for intelligibility, i.e. for me to explain my own thoughts. 
 
+
 ## Complex Analysis
-E.g. evolutionary game theory
+TODO (E.g. evolutionary game theory)
 
 
 
