@@ -1,7 +1,7 @@
 ---
 title: Scarcity Warrants Complexity
 created: '2020-09-17T19:09:19.668Z'
-modified: '2020-09-20T18:11:33.979Z'
+modified: '2020-09-22T02:17:34.441Z'
 ---
 
 # Scarcity Warrants Complexity
@@ -32,6 +32,10 @@ Why must valuable things be reproductive in this way? Because if they do not hav
 
 If this is a hard pill to swallow then I agree. I'm here only interested in justifying my own views and attempting to unify them into a coherent narrative. The truth is that my views regarding what problems are interesting are themselves the product of a kind of evolutionary mental process unfolding in my head which is continually changing course as new information affects it. To expect them to be consistent is quite a high bar, but consistency is nonetheless necessary for intelligibility, i.e. for me to explain my own thoughts. 
 
+### Ownership
+One must have the unilateral freedom to experiment and try many things in solving a problem for it to be interesting. And one must have the freedom to approach it in any way which seems appropriate with as few external constraints binding his actions. The beauty of the problem is that, when working on its solution, there is only it and you. There is no one else telling you what to do, because you are the foremost expert on it, being the person trying to solve it. This is the primary importance of ownership.
+
+Ownership is also in everyone's best interest. Like a renter, unconcerned with maintaining his apartment, someone who has no ownership over his work cannot be expected to invest much of himself in it. But there'e more to ownership and unilateral control of a project than this. Ownership allows one to identify the project with himself, and in this way to derive meaning from it. The solution is his and no his alone.
 
 ## Complex Analysis
 TODO (E.g. evolutionary game theory)
