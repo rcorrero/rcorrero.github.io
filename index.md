@@ -6,7 +6,8 @@ title: Projects
 A public space for me to record my personal work.
 
 
-### Causa Nostra
+### Notes
+- [Data-Driven Decisions](notes/data_driven_decisions.md)
 - [Scarcity Warrants Complexity](notes/scarcity_warrants_complexity.md)
 
 ### Current Projects (In Progress)
