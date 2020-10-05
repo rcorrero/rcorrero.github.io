@@ -14,8 +14,6 @@ A public space for me to record my personal work.
 ### Current Projects (In Progress)
 - [poisson](https://github.com/rcorrero/poisson) – [This map](files/chimbote_map.html) shows the locations of vessels detected near the port of Chimbote, Peru. Using a convolutional neural network, the vessels were detected from 393 satellite images taken over a one-year period.
 
-- [Prairial](notes/Prairial.md)
-
 ### Past Projects
 - [thermidor](https://github.com/rcorrero/thermidor)
 - [brumaire](https://github.com/rcorrero/brumaire)
