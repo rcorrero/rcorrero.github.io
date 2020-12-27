@@ -24,7 +24,7 @@ A public space for me to record my personal work.
 ### Papers
 - ["Weak Supervision with Incremental Source Accuracy Estimation"](https://www.semanticscholar.org/paper/Weak-Supervision-with-Incremental-Source-Accuracy-Correro-rcorrero/7686a15a46690ccedb598fff0ecdc34d0474af0f)
 
-### Other
+### Imagery
 - [Image of M31 (Andromeda galaxy)](files/2020_12_26_stack_2_enchanced_2_rotated.png). Created from 8 50" exposures I captured from my backyard on the night of December 26, 2020.
 - [Image of an eight point white-tailed deer (Odocoileus virginianus)](files/DSC_0889.JPG). I took this image on woodland in north central Mississippi on December 24, 2020 at 7:07 AM.
 
