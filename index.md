@@ -29,4 +29,4 @@ A public space for me to record my personal work.
 - [Image of an eight point white-tailed deer (Odocoileus virginianus)](files/DSC_0889.JPG). I took this image on woodland in north central Mississippi on December 24, 2020 at 7:07 AM.
 
 
-Copyright © 2020 Richard Correro. All rights reserved.
+Copyright 2020-Present Richard Correro. All rights reserved.
