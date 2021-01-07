@@ -8,7 +8,6 @@ A public space for me to record my personal work.
 
 ### Notes
 - [Data-Driven Decisions](notes/data_driven_decisions.md)
-- [Scarcity Warrants Complexity](notes/scarcity_warrants_complexity.md)
 - [Game Choice and Investing Effort](notes/game_choice.md)
 
 ### Current Projects (In Progress)
@@ -25,8 +24,12 @@ A public space for me to record my personal work.
 - ["Weak Supervision with Incremental Source Accuracy Estimation"](https://www.semanticscholar.org/paper/Weak-Supervision-with-Incremental-Source-Accuracy-Correro-rcorrero/7686a15a46690ccedb598fff0ecdc34d0474af0f)
 
 ### Imagery
-- [Image of M31 (Andromeda galaxy)](files/2020_12_26_stack_2_enchanced_2_rotated.png). Created from 8 50" exposures I captured from my backyard on the night of December 26, 2020.
+#### Astrophotography
+- [M33 (Triangulum galaxy)](files/2021_1_5_m33_processed_cropped.png). Created from 26 60" exposures I captured from my backyard on the night of January 5, 2021.
+- [M45 (Pleiades)](files/2021_1_4_m45_01_processed.png). Made with 22 45" sublights captured on January 3, 2021. 
+- [M31 (Andromeda galaxy)](files/2020_12_26_stack_2_enchanced_2_rotated.png). Created from 8 50" exposures captured on December 26, 2020.
+#### Wildlife
 - [Image of an eight point white-tailed deer (Odocoileus virginianus)](files/DSC_0889.JPG). I took this image on woodland in north central Mississippi on December 24, 2020 at 7:07 AM.
 
 
-Copyright 2020-Present Richard Correro. All rights reserved.
+Copyright 2020-present Richard Correro. All rights reserved.
