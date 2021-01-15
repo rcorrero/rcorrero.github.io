@@ -25,7 +25,7 @@ A public space for me to record my personal work.
 
 ### Imagery
 #### Astrophotography
-- [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.TIF). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
+- [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
 - [M45 (Pleiades)](files/2021_1_4_m45_01_processed.png). Made with 22 45" sublights captured on January 3, 2021. 
 - [M31 (Andromeda galaxy)](files/2020_12_26_stack_2_enchanced_2_rotated.png). Created from 8 50" exposures captured on December 26, 2020.
 
