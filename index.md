@@ -32,5 +32,10 @@ A public space for me to record my personal work.
 #### Wildlife
 - [Eight point white-tailed deer (Odocoileus virginianus)](files/DSC_0889.JPG). I took this image on woodland in north central Mississippi on December 24, 2020 at 7:07 AM.
 
+#### Scenery
+- [Big Sur coastline](files/big_sur_dsc3161.png). Captured by me on June 15, 2021.
+- [Big Sur at dusk](files/big_sur_dsc3235.png). Also taken on June 15, 2021.
+
+
 
 Copyright 2020-present Richard Correro. All rights reserved.
