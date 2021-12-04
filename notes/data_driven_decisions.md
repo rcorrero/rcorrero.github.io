@@ -6,7 +6,7 @@ modified: '2021-08-23T18:00:53.035Z'
 
 # Data-Driven Decisions
 
-This is my ideal work. I want to be given a question which can be answered using some combination of domain knowledge and statistical estimates derived from data. My job would then be to design a system to answer this question. This involves two tasks:
+The class of problems on which I'd like to focus are those where I am given a question which can be answered using some combination of domain knowledge and statistical estimates derived from data. My job would then be to design a system to answer this question. This involves two tasks:
 
 - Determining what the design of the system should be. What are the covariates, i.e., what data sources are available, and what data sources are most relevant? And what are the outcomes, that is, what are we predicting, forecasting, modeling, etc? How do we process the covariates to extract relevant information from them?
 - Building a functional protype in a high-level language like Python. Python is optimal because all necessary components in the system can be developed in Python, including data ingestion/processing/formatting; model implementation, fitting, hyperparameter optimization; formatting of model results; statistical, numerical and algorithmic methods necessary to format the input data or create the outputs; and any other code necessary to glue everything else together and/or automate it. Importantly, Python is also a great environment for [EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis), and the statistical inference packages are, in my opinion, just as good as those in R.

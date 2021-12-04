@@ -6,9 +6,6 @@ title: Projects
 A public space for me to record my personal work.
 
 
-### Notes
-- [Data-Driven Decisions](notes/data_driven_decisions.md)
-
 ### Current Projects (In Progress)
 - [charcoal](https://github.com/rcorrero/charcoal) — The goal of this project is to identify human trafficking using remotely-sensed data. This information will help authorities to elimate and prevent human trafficking.
 - [poisson](https://github.com/rcorrero/poisson) — A system to identify small fishing vessels in satellite imagery. [This map](files/chimbote_map.html) shows the locations of vessels detected near the port of Chimbote, Peru. Using a convolutional neural network, the vessels were detected from 393 satellite images taken over a one-year period. With this system regulators can identify and prevent illegal, unreported, and unregulated (IUU) fishing. Paper forthcoming.
