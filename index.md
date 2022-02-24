@@ -6,11 +6,8 @@ title: Projects
 _Principle over particulars_
 
 
-### Current Projects (In Progress)
-- [charcoal](https://github.com/rcorrero/charcoal) — The goal of this project is to develop a machine-learning-based system which uses remotely-sensed data to identify locations where forced labor is being used to produce charcoal. This system will help authorities to eliminate and prevent human trafficking.
-- [poisson](https://github.com/rcorrero/poisson) — A system to identify small fishing vessels in satellite imagery. [This map](files/chimbote_map.html) shows the locations of vessels detected near the port of Chimbote, Peru. Using a convolutional neural network, the vessels were detected from 393 satellite images taken over a one-year period. With this system regulators can identify and prevent illegal, unreported, and unregulated (IUU) fishing. Paper forthcoming.
-
 ### Past Projects
+- [poisson](https://github.com/rcorrero/poisson) — A system to identify small fishing vessels in satellite imagery. [This map](files/chimbote_map.html) shows the locations of vessels detected near the port of Chimbote, Peru. Using a convolutional neural network, the vessels were detected from 393 satellite images taken over a one-year period. With this system regulators can identify and prevent illegal, unreported, and unregulated (IUU) fishing. Paper forthcoming.
 - [thermidor](https://github.com/rcorrero/thermidor)
 - [brumaire](https://github.com/rcorrero/brumaire)
 - [online-snorkel](https://github.com/rcorrero/CS-229-Final-Project/tree/master/project_code)
