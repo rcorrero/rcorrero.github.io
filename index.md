@@ -5,6 +5,9 @@ title: Projects
 # Projects
 _Principle over particulars_
 
+### Current Project
+I’m currently developing a system to identify human-trafficking using remotely-sensed/geospatial data. Some of the code I’m developing may be found [here](https://github.com/rcorrero/slrgd).
+
 
 ### Past Projects
 - [poisson](https://github.com/rcorrero/poisson) — A system to identify small fishing vessels in satellite imagery. [This map](files/chimbote_map.html) shows the locations of vessels detected near the port of Chimbote, Peru. Using a convolutional neural network, the vessels were detected from 393 satellite images taken over a one-year period. With this system regulators can identify and prevent illegal, unreported, and unregulated (IUU) fishing. Paper forthcoming.
