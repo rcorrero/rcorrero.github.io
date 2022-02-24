@@ -1,0 +1,19 @@
+slrgd package
+=============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   slrgd.raster_tiles
+   slrgd.scripts
+
+Module contents
+---------------
+
+.. automodule:: slrgd
+   :members:
+   :undoc-members:
+   :show-inheritance:

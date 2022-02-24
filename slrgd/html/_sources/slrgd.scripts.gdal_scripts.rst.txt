@@ -1,0 +1,21 @@
+slrgd.scripts.gdal\_scripts package
+===================================
+
+Submodules
+----------
+
+slrgd.scripts.gdal\_scripts.rasterize module
+--------------------------------------------
+
+.. automodule:: slrgd.scripts.gdal_scripts.rasterize
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: slrgd.scripts.gdal_scripts
+   :members:
+   :undoc-members:
+   :show-inheritance:
