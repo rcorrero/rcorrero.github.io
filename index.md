@@ -2,8 +2,19 @@
 title: Projects
 ---
 
+>Be not afeard; the isle is full of noises,
+Sounds and sweet airs, that give delight, and hurt not.
+Sometimes a thousand twangling instruments
+Will hum about mine ears; and sometime voices,
+That, if I then had waked after long sleep,
+Will make me sleep again: and then, in dreaming,
+The clouds methought would open, and show riches
+Ready to drop upon me; that, when I waked,
+I cried to dream again.
+
+From [_The Tempest_](https://poets.org/poem/tempest-act-iii-scene-ii-be-not-afeard), Act III, Scene II. 
+
 # Projects
-_Principle over particulars_
 
 ### Current Project
 I’m currently developing a system to identify human-trafficking using remotely-sensed/geospatial data. Some of the code I’m developing may be found [here](https://github.com/rcorrero/slrgd).
