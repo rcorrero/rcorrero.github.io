@@ -12,7 +12,7 @@ The clouds methought would open, and show riches
 Ready to drop upon me; that, when I waked,
 I cried to dream again.
 
-From [_The Tempest_](https://poets.org/poem/tempest-act-iii-scene-ii-be-not-afeard), Act III, Scene II. 
+From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act III, Scene II. 
 
 # Projects
 
