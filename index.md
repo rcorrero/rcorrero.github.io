@@ -2,17 +2,10 @@
 title: Projects
 ---
 
->Be not afeard; the isle is full of noises,
-Sounds and sweet airs, that give delight, and hurt not.
-Sometimes a thousand twangling instruments
-Will hum about mine ears; and sometime voices,
-That, if I then had waked after long sleep,
-Will make me sleep again: and then, in dreaming,
-The clouds methought would open, and show riches
-Ready to drop upon me; that, when I waked,
-I cried to dream again.
+>Though the seas threaten, they are merciful;
+I have cursed them without cause.
 
-From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act III, Scene II. 
+From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene I. 
 
 # Projects
 
