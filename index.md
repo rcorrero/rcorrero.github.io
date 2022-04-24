@@ -9,7 +9,7 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 ---
 
-## [Current CV](files/richard_correro_resume_2022_se_m.pdf) 
+## [Current CV](files/richard_correro_resume_2022_se_m_no_phone.pdf) 
 
 ### Imagery
 #### Astrophotography
