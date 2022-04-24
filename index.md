@@ -7,8 +7,9 @@ I have cursed them without cause.
 
 From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene I. 
 
+---
 
-### [Current CV](files/richard_correro_resume_2022_se_m.pdf) 
+## [Current CV](files/richard_correro_resume_2022_se_m.pdf) 
 
 ### Imagery
 #### Astrophotography
