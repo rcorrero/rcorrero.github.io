@@ -11,6 +11,10 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 ## [Current CV](files/richard_correro_resume_2022_se_m_no_phone.pdf) 
 
+## Email
+- `rcorrero ~AT~ stanford ~DOT~ edu`
+- `rcorrero ~AT~ gmail ~DOT~ com`
+
 ### Imagery
 #### Astrophotography
 - [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
