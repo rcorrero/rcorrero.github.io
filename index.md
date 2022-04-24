@@ -28,6 +28,8 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 - [Big Sur coastline](files/big_sur_dsc3161.png). Captured by me on June 15, 2021.
 - [Big Sur at dusk](files/big_sur_dsc3235.png). Also taken on June 15, 2021.
 
+[](files/on_line_weak_supervision.pdf)
+
 
 
 Copyright 2020-present Richard Correro. All rights reserved.
