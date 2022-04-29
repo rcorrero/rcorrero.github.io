@@ -13,9 +13,8 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 #### [Current CV](files/richard_correro_resume_2022_se_m.pdf) 
 
-#### [Email](mailto:rcorrero@stanford.edu)
-- _rcorrero_ __AT__ _stanford_ __DOT__ _edu_
-- _rcorrero_ __AT__ _gmail_ __DOT__ _com_
+#### [Primary Email](mailto:rcorrero@stanford.edu) (_rcorrero_ __AT__ _stanford_ __DOT__ _edu_)
+#### [Alternate Email](mailto:rcorrero@gmail.com) (_rcorrero_ __AT__ _gmail_ __DOT__ _com_)
 
 ## Imagery
 #### Astrophotography
