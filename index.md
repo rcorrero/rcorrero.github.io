@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Richard Correro
 ---
 
 >Though the seas threaten, they are merciful;
@@ -9,7 +9,7 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 ---
 
-## About Richard Correro
+## About Me
 
 - [Current CV](files/richard_correro_resume_2022_se_m.pdf) 
 - [Primary Email](mailto:rcorrero@stanford.edu) (_rcorrero_ __AT__ _stanford_ __DOT__ _edu_)
