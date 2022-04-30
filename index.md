@@ -15,6 +15,14 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 - [Primary Email](mailto:rcorrero@stanford.edu)
 - [Alternate Email](mailto:rcorrero@gmail.com)
 
+__Total distance run per year (as measured by my fitness tracker device):__
+- 2021: 2094 mi (3370 km)
+- 2020: 1931 mi (3108 km)
+- 2019: 1805 mi (2905 km)
+- 2018: 721 mi (1160 km)
+
+I try to average at least 6 miles (about 10 km) per day.
+
 ## Imagery
 #### Astrophotography
 - [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
