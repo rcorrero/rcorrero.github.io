@@ -23,6 +23,10 @@ __Total distance run per year (as measured by my fitness tracker device):__
 
 I try to average at least 6 miles (about 10 km) per day.
 
+- [A bar chart](files/mi_run_per_day.svg) displaying the number of miles run per day for a (not particularly impressive) random 30-day period
+- [The same chart](files/km_run_per_day.svg) but measured in kilometers per day
+- [The raw data](files/new_shoes_runs.csv)
+
 ## Imagery
 #### Astrophotography
 - [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
