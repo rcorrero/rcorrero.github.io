@@ -48,6 +48,6 @@ I try to average at least 6 miles (about 10 km) per day.
 
 [](files/on_line_weak_supervision.pdf)
 
-
+---
 
 Copyright 2020-2022 Richard Correro. All rights reserved.
