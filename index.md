@@ -21,12 +21,12 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 ## Running
 
 __Total distance run per year (as measured by my fitness tracker device):__
-- 2021: 2094 mi (3370 km)
-- 2020: 1931 mi (3108 km)
-- 2019: 1805 mi (2905 km)
-- 2018: 721 mi (1160 km)
+- 2021: 2,094 mi (3,370 km)
+- 2020: 1,931 mi (3,108 km)
+- 2019: 1,805 mi (2,905 km)
+- 2018: 721 mi (1,160 km)
 
-I try to average at least 6 miles (about 10 km) per day.
+My total caloric expenditure attributable to running in 2021 was about 262,000 kilocalories, equivalent to about 162 lbs (73 kg) of [jelly beans](https://fdc.nal.usda.gov/fdc-app.html#/food-details/2045688/nutrients). I try to average at least 6 miles (about 10 km) per day.
 
 - [A bar chart](files/mi_run_per_day.svg) displaying the number of miles run per day for a (not particularly impressive) random 30-day period.
 - [The same chart](files/km_run_per_day.svg) but measured in kilometers per day.
