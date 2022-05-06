@@ -32,6 +32,8 @@ I try to average at least 6 miles (about 10 km) per day.
 - [The same chart](files/km_run_per_day.svg) but measured in kilometers per day.
 - [The raw data](files/new_shoes_runs.csv)
 
+[Here](files/heart_rate_paper.pdf) is a paper I wrote analyzing the effect of behavioral factors on my average heart rate while running. This study used a fractional factorial design to test four factors in eight trials. An interesting conclusion is that fasting before running significantly reduces average heart rate (although I was the only test subject and so the external validity of these results is not clear).
+
 ## Imagery
 
 #### Astrophotography
