@@ -2,7 +2,7 @@
 title: Richard Correro
 ---
 
->Though the seas threaten, they are merciful;
+> Though the seas threaten, they are merciful;
 I have cursed them without cause.
 
 From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene I. 
