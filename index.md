@@ -34,7 +34,7 @@ My total caloric expenditure attributable to running in 2021 was about 262,000 k
 - [The same chart](files/km_run_per_day.svg) but measured in kilometers per day.
 - [The raw data](files/new_shoes_runs.csv)
 
-[Here](files/heart_rate_paper.pdf) are the results of a study I conducted analyzing the effect of behavioral factors on average heart rate while running. This study used a resolution IV fractional factorial design to test four factors in eight trials. An interesting conclusion is that fasting before running significantly reduces average heart rate (although I was the only test subject and so the external validity of these results is not clear).
+[Here](files/heart_rate_paper.pdf) are the results of a study I conducted analyzing the effect of behavioral factors on average heart rate while running. This study used a [resolution IV](https://en.wikipedia.org/wiki/Fractional_factorial_design#Resolution) fractional factorial design to test four factors in eight trials. An interesting conclusion is that fasting before running significantly reduces average heart rate (although I was the only test subject and so the external validity of these results is not clear).
 
 ## Imagery
 
