@@ -9,7 +9,7 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 ---
 
-# About Richard Correro
+# [About Richard Correro](www.correro.org)
 
 I'm currently a graduate student in the statistics department at Stanford University. In 2021 received a BS in mathematical and computational science at Stanford.
 
