@@ -20,35 +20,10 @@ I'm currently a graduate student in the statistics department at Stanford Univer
 - [Primary Email](mailto:rcorrero@stanford.edu)
 - [Alternate Email](mailto:rcorrero@gmail.com)
 
-## Running
+## [Running](files/running.md)
 
-__Total distance run per year (as measured by my fitness tracker device):__
-- 2021: 2,094 mi (3,370 km)
-- 2020: 1,931 mi (3,108 km)
-- 2019: 1,805 mi (2,905 km)
-- 2018: 721 mi (1,160 km)
 
-My total caloric expenditure attributable to running in 2021 was about 262,000 (kilo)calories, equivalent to roughly 162 lbs (73 kg) of [jelly beans](https://fdc.nal.usda.gov/fdc-app.html#/food-details/2045688/nutrients). I try to average at least 6 miles (10 km) per day.
-
-- [A bar chart](files/mi_run_per_day.svg) displaying the number of miles run per day for a (not particularly impressive) 30-day period in 2021.
-- [The same chart](files/km_run_per_day.svg) but measured in kilometers per day.
-- [The raw data](files/new_shoes_runs.csv)
-
-[Here](files/heart_rate_paper.pdf) are the results of a study I conducted analyzing the effect of behavioral factors on average heart rate while running. This study used a [resolution IV](https://en.wikipedia.org/wiki/Fractional_factorial_design#Resolution) fractional factorial design to test four factors in eight trials. An interesting conclusion is that fasting before running significantly reduces average heart rate (although I was the only test subject, so it's unclear whether [these results generalize](https://en.wikipedia.org/wiki/External_validity)).
-
-## Imagery
-
-#### Astrophotography
-- [M33 (Triangulum galaxy)](files/2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
-- [M45 (Pleiades)](files/2021_1_4_m45_01_processed.png). Made with 22 45" sublights captured on January 3, 2021. 
-- [M31 (Andromeda galaxy)](files/2020_12_26_stack_2_enchanced_2_rotated.png). Created from 8 50" exposures captured on December 26, 2020.
-
-#### Wildlife
-- [Eight point white-tailed deer (Odocoileus virginianus)](files/DSC_0889.JPG). I took this image on woodland in north central Mississippi on December 24, 2020 at 7:07 AM.
-
-#### Scenery
-- [Big Sur coastline](files/big_sur_dsc3161.png). Captured by me on June 15, 2021.
-- [Big Sur at dusk](files/big_sur_dsc3235.png). Also taken on June 15, 2021.
+## [Imagery](files/imagery.md)
 
 [](files/on_line_weak_supervision.pdf)
 
