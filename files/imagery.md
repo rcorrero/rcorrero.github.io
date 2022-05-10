@@ -1,7 +1,7 @@
 # Imagery
 
 ## Satellite Imagery
-- [Timelapse of Azovstal steel plant](azovstal.mp4). The effects of heavy bombardment by Russian forces are evident. Image copyright Planet Labs, inc.
+- [Timelapse of Azovstal steel plant](azovstal.mp4). The effects of heavy bombardment by Russian forces are evident. Image copyright Planet Labs.
 
 ## Astrophotography
 - [M33 (Triangulum galaxy)](2021_1_12_m33_02_processed.png). Created from 25 60" exposures I captured from my backyard on the night of January 12, 2021.
