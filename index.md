@@ -25,7 +25,7 @@ I’m currently a graduate student in the statistics department at Stanford Univ
 
 ## [Imagery](files/imagery.md)
 
-[](files/on_line_weak_supervision.pdf)
+[](sitemap.xml)
 
 ---
 
