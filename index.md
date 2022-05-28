@@ -11,7 +11,7 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 # [About Richard Correro](https://www.richardcorrero.com)
 
-I’m currently a graduate student in the statistics department at Stanford University. In 2021, I received a BS in mathematical and computational science at Stanford. I like to run, cook, and take photos of interesting things.
+I’m currently an MS student in the statistics department at Stanford University. In 2021, I received a BS in mathematical and computational science at Stanford. I like to run, cook, and take photos of interesting things.
 
 - [Current CV](files/richard_correro_cv.pdf) 
 
