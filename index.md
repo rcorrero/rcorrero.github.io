@@ -11,7 +11,7 @@ From [_The Tempest_](http://shakespeare.mit.edu/tempest/full.html), Act V, Scene
 
 # [About Richard Correro](https://www.richardcorrero.com)
 
-I recently graduated with a MS in statistics from Stanford University. In 2021, I received a BS in mathematical and computational science at Stanford.
+I'm a data engineer at Stanford University School of Medicine. I recently graduated with a MS in statistics from Stanford University. In 2021, I received a BS in mathematical and computational science at Stanford.
 
 - [Current CV](files/richard_correro_cv.pdf) 
 
