@@ -2,10 +2,6 @@
 title: Richard Correro
 ---
 
-> Much is necessary, but little is sufficient.
-
----
-
 # [About Richard Correro](https://www.richardcorrero.com)
 
 I recently graduated with a MS in statistics from Stanford University. In 2021, I received a BS in mathematical and computational science at Stanford.
