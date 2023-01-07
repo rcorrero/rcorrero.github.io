@@ -22,4 +22,4 @@
 
 ---
 
-Copyright 2020-2022 Richard Correro. All rights reserved.
+Copyright 2020-2023 Richard Correro. All rights reserved.

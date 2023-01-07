@@ -1,6 +1,7 @@
 # Running
 
 __Total distance run per year (as measured by my fitness tracker device):__
+- 2022: 2,419 mi (3,893 km)
 - 2021: 2,094 mi (3,370 km)
 - 2020: 1,931 mi (3,108 km)
 - 2019: 1,805 mi (2,905 km)
@@ -16,4 +17,4 @@ My total caloric expenditure attributable to running in 2021 was about 262,000 (
 
 ---
 
-Copyright 2020-2022 Richard Correro. All rights reserved.
+Copyright 2020-2023 Richard Correro. All rights reserved.
