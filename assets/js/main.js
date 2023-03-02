@@ -37,8 +37,9 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/big_sur_dsc3161.png': 'center',
+							'images/big_sur_dsc3272.png': 'center',
+							'images/big_sur_dsc3180.png': 'center',
 							'images/big_sur_dsc3235.png': 'center'
-							// 'images/bg03.jpg': 'center'
 						},
 
 					// Delay.
